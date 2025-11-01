@@ -1,0 +1,61 @@
+body {
+    font-family: Arialsans-serif;
+    backgroung: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+.login-box {
+    background: #fff;
+    padding:20px 30px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0 0 0 0.1);
+    width: 300px;
+}
+.login-box input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.login-btn {
+    width:107%;
+    padding: 10px;
+    background: #1877f2;
+    color: white;
+    font-weight:bold;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.forgot {
+display: block;
+margin: 10px 0;
+color: rgb(0, 68, 255);
+font-size: 13px;
+text-decoration: none;
+}
+.create-btn {
+    background: #42b72a;
+color: white;
+border: none;
+padding: 10px;
+margin-top: 10px;
+width: 50%;
+cursor: pointer;
+font-weight: bold;
+}
+.create-page {
+    font-size: 12px;
+    margin-top: 20px;
+}
+.container {
+    box-shadow: 0 0 10pxrrgba(0 0,0,0,1);
+    padding: 20px;
+    border-radius: 8px;
+background: white;
+width: 320px;
+text-align: back;
+}
